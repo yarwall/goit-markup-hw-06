@@ -474,7 +474,9 @@ button {
   display: flex;
   align-items: baseline;
 }
-
+.footer-social-box {
+  margin-right: 80px;
+}
 .footer-logo-box {
   margin-right: 120px;
 }
