@@ -787,7 +787,7 @@ input[type='email'].subscribe-input::placeholder {
 }
 
 .modal-label-text {
-  display: inline-block;
+  display: block;
   font-size: 12px;
   margin-bottom: 5px;
   color: var(--color-light-slate);
@@ -795,9 +795,10 @@ input[type='email'].subscribe-input::placeholder {
 
 .input-wrap {
   position: relative;
+}
+.input-wr {
   margin-bottom: 16px;
 }
-
 .modal-input {
   width: 100%;
   height: 40px;
